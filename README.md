@@ -81,7 +81,7 @@ Docker · Jenkins · Git · Postman · Jira · TablePlus · Navicat
 #### 🔹 Frontend
 - **Pokedex** – App Vue para explorar Pokémon.  
   `Vue` `API REST`  
-  ↳ <https://dgualdron04.github.io/Pokedex/pokedex>
+  ↳ <https://dgualdron04.github.io/Pokedex>
 
 ---
 
