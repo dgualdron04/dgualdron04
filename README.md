@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/diegogualdron/">LinkedIn</a> •
   <a href="mailto:dgualdron04@gmail.com">Email</a> •
+  <a href="https://www.credly.com/users/dgualdron">Credly</a>
   <!--a href="#">Portafolio</a!-->
 </p>
 
